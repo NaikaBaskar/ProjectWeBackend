@@ -1,2 +1,2 @@
 # ProjectWe
-It is Project Similar to OLX
+It is a small Project Similar to OLX
